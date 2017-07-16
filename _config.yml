@@ -1,16 +1,16 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
+title: 🔥🔥🔥🔥🔥Regret Studios - High Fashion Stores Online
+description: "A Stores about Regret Studios ..."
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+url: "https://duythien0912.github.io/RegretStudios3/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
-username: lorem ipsum
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-disqus_username: loremipsum
+username: Regret Studios
+user_title: Regret Studios - High Fashion Stores Online
+email: Regretstudios@gmail.com
+twitter_username: Regret Studios
+github_username:  Regret Studios
+gplus_username:  Regret Studios
+disqus_username: Regret Studios
 profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
 
 # Build settings
@@ -40,11 +40,11 @@ links:
     url: /about
 # projects in header index
 projects:
-  - name: asciilang
-    url: https://github.com/victorvoid/asciilang
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara 
+  - name: facebook
+    url: https://facebook.com/
+  - name: instagram
+    url: https://instagram.com/
+  - name: myweb
+    url: https://duythien0912.github.io/RegretStudios3/
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
